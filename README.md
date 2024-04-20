@@ -1,2 +1,2 @@
 # copy-vc
-A Python script for voice mimicking in games
+i created this jus to make fun of my friends while playin games
